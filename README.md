@@ -22,11 +22,11 @@ Welcome to the Employee Insights Dashboard! I'm thrilled to take you on a journe
    
 3. [Python code only - All 3 Cases](https://github.com/Chisuso/Employee-HR-Data/blob/main/hr%20data%20main.py)
    
-      3a. [Use Case 1 code Only- Employee_satisfaction_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_satisfaction_analysis.py)
+      3a. [Case 1 code Only- Employee_satisfaction_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_satisfaction_analysis.py)
    
-      3b. [Use Case 2 code Only- Employee_productivity_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_tenure_analysis.py)
+      3b. [Case 2 code Only- Employee_productivity_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_tenure_analysis.py)
    
-      3c. [Use Case 3 code Only- Employeetenure_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/%20employee_productivity_analysis.py)
+      3c. [Case 3 code Only- Employeetenure_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/%20employee_productivity_analysis.py)
    
 5. [Overview(Read.me)](https://github.com/Chisuso/Employee-HR-Data/blob/main/README.md)
 
