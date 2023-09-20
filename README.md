@@ -29,6 +29,7 @@ Welcome to the Employee Insights Dashboard! I'm thrilled to take you on a journe
       3c. [Case 3 code Only- Employeetenure_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/%20employee_productivity_analysis.py)
    
 5. [Overview(Read.me)](https://github.com/Chisuso/Employee-HR-Data/blob/main/README.md)
+6. [CSV File Used for This Project](https://github.com/Chisuso/Employee-HR-Data/blob/main/hr_dashboard_data.csv)
 
 
 ## Case #1: Employee Satisfaction Analysis
