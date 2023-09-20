@@ -14,21 +14,38 @@ Welcome to the Employee Insights Dashboard! I'm thrilled to take you on a journe
 - Provide actionable insights to HR and management for informed decision-making.
 - Make data-driven storytelling engaging and enjoyable.
 
+
+# Contents of this Repository
+1. [Complete Project(Python code, output and deductions)](https://github.com/Chisuso/Employee-HR-Data#:~:text=Employee_HR_Data_Analysis.ipynb) 
+
+2. [Breakdown of Findings for Non-Technical Audiences](https://github.com/Chisuso/Employee-HR-Data/blob/main/Employee%20Insights%20Report.pdf)
+   
+3. [Python code only - All 3 Cases](https://github.com/Chisuso/Employee-HR-Data/blob/main/hr%20data%20main.py)
+   
+      3a. [Use Case 1 code Only- Employee_satisfaction_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_satisfaction_analysis.py)
+   
+      3b. [Use Case 2 code Only- Employee_productivity_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_tenure_analysis.py)
+   
+      3c. [Use Case 3 code Only- Employeetenure_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/%20employee_productivity_analysis.py)
+   
+5. [Overview(Read.me)](https://github.com/Chisuso/Employee-HR-Data/blob/main/README.md)
+
+
 ## Case #1: Employee Satisfaction Analysis
 
-**Code File:** [employee_satisfaction_analysis.py](employee_satisfaction_analysis.py)
+**Code File:** [employee_satisfaction_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_satisfaction_analysis.py)
 
 **Description:** In this case, we'll dive deep into employee satisfaction. We'll explore satisfaction rates, departmental variations, and even examine gender-based differences. Get ready for captivating plots and charts that unveil what keeps our employees smiling! 😊
 
 ## Case #2: Employee Productivity Analysis
 
-**Code File:** [employee_productivity_analysis.py](employee_productivity_analysis.py)
+**Code File:** [employee_productivity_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/employee_tenure_analysis.py)
 
 **Description:** Ever wondered what makes a productive employee? Case #2 answers that question! We'll analyze projects completed, productivity scores, and feedback scores. Through histograms and statistics, we'll discover the secrets to a high-performing workforce. 🚀
 
 ## Case #3: Employee Tenure Analysis
 
-**Code File:** [employee_tenure_analysis.py](employee_tenure_analysis.py)
+**Code File:** [employee_tenure_analysis.py](https://github.com/Chisuso/Employee-HR-Data/blob/main/%20employee_productivity_analysis.py)
 
 **Description:** Tenure isn't just about counting the years; it's about understanding our employees' journeys. In this case, we'll calculate tenure in years, examine departmental variations, and even conduct a t-test to see if there's a significant difference between departments. The histograms will tell tales of dedication and loyalty. 🕰️
 
