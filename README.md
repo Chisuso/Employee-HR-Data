@@ -16,7 +16,7 @@ Welcome to the Employee Insights Dashboard! I'm thrilled to take you on a journe
 
 
 # Contents of this Repository
-1. [Complete Project(Python code, output and deductions)](https://github.com/Chisuso/Employee-HR-Data#:~:text=Employee_HR_Data_Analysis.ipynb) 
+1. [Complete Project(Python code, output and deductions)](https://github.com/Chisuso/Employee-HR-Data/blob/main/Employee_HR_Data_Analysis.ipynb) 
 
 2. [Breakdown of Findings for Non-Technical Audiences](https://github.com/Chisuso/Employee-HR-Data/blob/main/Employee%20Insights%20Report.pdf)
    
