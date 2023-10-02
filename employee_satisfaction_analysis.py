@@ -97,7 +97,7 @@ female_satisfaction = employee_data[employee_data['Gender'] == 'Female']['Satisf
 male_satisfaction = employee_data[employee_data['Gender'] == 'Male']['Satisfaction Rate (%)']
 t_stat, p_value = stats.ttest_ind(female_satisfaction, male_satisfaction)
 
-# Automated Interpretation for T-test:
+#Interpretation for T-test:
 print(f"We performed an independent two-sample t-test to compare satisfaction rates between female and male employees.")
 print(f"The t-statistic is {t_stat} and the p-value is {p_value}.")
 if p_value < 0.05:
