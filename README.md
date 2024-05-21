@@ -61,4 +61,4 @@ Welcome to the Employee Insights Dashboard! I'm thrilled to take you on a journe
 
 This Employee Insights Dashboard is more than just code and numbers; it's a journey into the heart of our organization. I hope you enjoy exploring the data as much as I did. If you have any questions or need further insights, please feel free to reach out. 📈💼
 
-Happy Data Analyzing! 🎉
+Thanks for following along! 🎉
