@@ -2,11 +2,11 @@
 
 ![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/fs/7df7c475521507.5c4f4a6978056.gif)
 
-# Employee Insights Dashboard
+# Employee Insights Project
 
 ## Overview
 
-Welcome to the Employee Insights Dashboard! I'm thrilled to take you on a journey through the fascinating world of data analysis, where numbers reveal stories of employee satisfaction, productivity, and tenure. 🚀📊
+Welcome to the Employee Insights Project! I'm thrilled to take you on a journey through the fascinating world of data analysis, where numbers reveal stories of employee satisfaction, productivity, and tenure. 🚀📊
 
 ### Project Goals
 
